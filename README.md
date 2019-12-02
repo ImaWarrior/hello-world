@@ -2,7 +2,7 @@
 
 This is a demo of using GitHub.
 
-Some key concepts are.
+Some key concepts are:
 
 * repository
 * branch
